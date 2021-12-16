@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Youssef 👋 
+
+#### Education 🎒
+- Fourth Year Management & IT student at the University of Toronto
+- 3.8/4.0 GPA
+- Expecteed Graduation: December 2022
+
+#### Work Experience 👔
+- IT Project Coordinator @ CIBC
+- Jr. Technical Analyst @ Ministry of Transportation in Ontario
+- Teaching Assistant @ University of Toronto
+
+#### Leadership Experience 💡
+- Co-President of the Management Technology Association at the University of Toronto
+
+#### Volunteer Experience 🇪🇹🇿🇲🇺🇬
+- Fundraising Director and volunteer for charity trips to Ethiopia (2016), Zambia (2017) and Uganda (2019)
+
+
+#### Fun Facts ⚽️
+- Huge soccer fan
+- Love to read (Book recommendation: Atomic Habits by James Clear)
+
+
+
 
 <!--
 **youssefisk/youssefisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
