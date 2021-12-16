@@ -1,7 +1,7 @@
 ### Hi there, I'm Youssef 👋 
 
 #### Education 🎒
-- Fourth Year Management & IT student at the University of Toronto
+- Fourth Year Business & IT student at the University of Toronto
 - 3.8/4.0 GPA
 - Expecteed Graduation: December 2022
 
