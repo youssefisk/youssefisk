@@ -2,7 +2,7 @@
 
 #### Education 🎒
 - Fourth Year Business & IT student at the University of Toronto
-- 3.8/4.0 CGPA
+- 3.82/4.0 CGPA
 - Expecteed Graduation: December 2022
 
 #### Work Experience 👔
