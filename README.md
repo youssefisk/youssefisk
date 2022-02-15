@@ -17,11 +17,6 @@
 - Fundraising Director and volunteer for charity trips to Ethiopia (2016), Zambia (2017) and Uganda (2019)
 
 
-#### Fun Facts ⚽️
-- Huge soccer fan
-- Love to read (Book recommendation: Atomic Habits by James Clear)
-
-
 
 
 <!--
