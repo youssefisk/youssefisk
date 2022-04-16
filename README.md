@@ -1,11 +1,9 @@
 ### Hi there, I'm Youssef 👋 
 
-Expected Graduation Date: April, 2023
-
 #### Education 🎒
 - Fourth Year Business & IT student at the University of Toronto
 - 3.82/4.0 CGPA
-- Expecteed Graduation: December 2022
+- Expecteed Graduation: April 2023
 
 #### Work Experience 👔
 - IT Project Coordinator @ CIBC
