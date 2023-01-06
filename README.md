@@ -6,6 +6,7 @@
 - Expected Graduation: April 2023
 
 #### Work Experience 👔
+- Data Analyst @ FISPAN
 - IT Project Coordinator @ CIBC
 - Jr. Technical Analyst @ Ministry of Transportation in Ontario
 - Teaching Assistant @ University of Toronto
