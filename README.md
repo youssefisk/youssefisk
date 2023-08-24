@@ -1,9 +1,9 @@
 ### Hi there, I'm Youssef 👋 
 
 #### Education 🎒
-- Fourth Year Business & IT student at the University of Toronto
-- 3.82/4.0 CGPA
-- Expected Graduation: April 2023
+- Graduated Business & IT student at the University of Toronto (BBA)
+- 3.83/4.0 CGPA
+- Graduated April 2023
 
 #### Work Experience 👔
 - Data Analyst @ FISPAN
