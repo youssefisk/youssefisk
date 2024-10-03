@@ -16,7 +16,7 @@
 - Co-President of the Management Technology Association at the University of Toronto
 
 #### Volunteer Experience 🇪🇹🇿🇲🇺🇬
-- Fundraising Director and volunteer for charity trips to Ethiopia (2016), Zambia (2017), Uganda (2019) and Namibia (2023)
+- Fundraising Director and volunteer for charity trips to Ethiopia (2016), Zambia (2017), Uganda (2019) and Namibia (2023, 2024)
 
 #### Projects
 
