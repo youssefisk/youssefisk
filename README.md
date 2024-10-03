@@ -6,6 +6,7 @@
 - Graduated April 2023
 
 #### Work Experience 👔
+- Data Engineer @ FISPAN
 - Data Analyst @ FISPAN
 - IT Project Coordinator @ CIBC
 - Jr. Technical Analyst @ Ministry of Transportation in Ontario
